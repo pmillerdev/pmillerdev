@@ -75,7 +75,7 @@ Hi there! I’m **Pete**, a Senior Software Engineer in Leamington Spa, UK. I bu
 
 ## 💬 Let’s Connect
 
-- **LinkedIn:** [linkedin.com/in/petemillerdev](https://www.linkedin.com/in/petemillerdev/)  
+- **LinkedIn:** <a href="https://www.linkedin.com/in/petemillerdev/" target="_blank">linkedin.com/in/petemillerdev</a>
 - **Email:** pmillerdev@gmail.com  
 
 I appreciate you taking the time to review my profile. I’d love to discuss how my skills and experience could add value to your team.  
