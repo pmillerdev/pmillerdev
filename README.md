@@ -7,7 +7,7 @@ Hi there! I’m **Pete**, a Senior Software Engineer in Leamington Spa, UK. I bu
 - 7+ years of experience delivering polished UIs and full-stack features for startups and large enterprises  
 - Astrophysics background + cloud computing expertise = quick grasp of new concepts and data-driven solutions  
 - Committed to clean, well-tested code and Agile collaboration  
-- Currently at Shout Digital (remote), focusing on performance tuning and workflow automation
+- Currently at Shout Digital (remote), focusing on building elegant UIs with excellent UX, while optimizing performance
 
 ---
 
