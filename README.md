@@ -1,4 +1,4 @@
-Hi there! I’m **Peter Miller**, a Senior Software Engineer in Leamington Spa, UK. I build high-performance web applications (mostly with React & Next.js) and enjoy turning complex requirements into clear, user-friendly experiences.
+Hi there! I’m **Pete**, a Senior Software Engineer in Leamington Spa, UK. I build high-performance web applications (mostly with React & Next.js) and enjoy turning complex requirements into clear, user-friendly experiences.
 
 ---
 
